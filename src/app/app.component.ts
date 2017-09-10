@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
+import 'hammerjs';
 
 @Component({
   selector: 'app-root',
